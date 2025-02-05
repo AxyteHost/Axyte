@@ -38,7 +38,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/onyx.git
+   git clone https://github.com/mavoio/Onyx-Landing-Page.git
    cd onyx
    ```
 
