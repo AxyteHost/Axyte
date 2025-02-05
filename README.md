@@ -39,7 +39,6 @@
 1. **Clone the repository**
    ```bash
    git clone https://github.com/mavoio/Onyx-Landing-Page.git
-   cd onyx
    ```
 
 2. **Install dependencies**
