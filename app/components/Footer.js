@@ -31,7 +31,7 @@ const Footer = () => {
           className="grid grid-cols-1 md:grid-cols-4 gap-12 md:gap-8"
         >
           <motion.div variants={item} className="space-y-4">
-            <h3 className="text-lg font-semibold tracking-wide">Onyx</h3>
+            <h3 className="text-lg font-semibold tracking-wide">AxyteHost</h3>
             <p className="text-gray-400 text-sm leading-relaxed">
               Professional game server and VPS hosting solutions with locations worldwide.
             </p>
@@ -128,12 +128,12 @@ const Footer = () => {
               </motion.span>
               <span className="text-gray-400">by</span>
               <Link 
-                href="https://danishfolio-v2.vercel.app" 
+                href="https://discord.com/users/969258536557244537" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-white hover:text-gray-300 transition-colors duration-200 font-medium"
               >
-                Danish Khan
+                NighT
               </Link>
             </motion.div>
           </div>
