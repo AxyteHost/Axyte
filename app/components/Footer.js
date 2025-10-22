@@ -106,7 +106,7 @@ const Footer = () => {
         >
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <motion.p variants={item} className="text-gray-400 text-sm">
-              © {currentYear} Onyx. All rights reserved.
+              © {currentYear} AxyteHost. All rights reserved.
             </motion.p>
             <motion.div 
               variants={item}
