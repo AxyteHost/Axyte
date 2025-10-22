@@ -26,14 +26,14 @@ const Navbar = () => {
   ];
 
   const freeStuffItems = [
-    { name: 'Dashboard', href: 'https://dash.yourhost/' },
-    { name: 'Panel', href: 'https://panel.yourhost/auth/login' },
+    { name: 'Client Area', href: 'https://client.axytehost.xyz' },
+    { name: 'Panel', href: 'https://panel.axytehost,xyz' },
   ];
 
   const navigation = [
     { name: 'Home', href: '/' },
-    { name: 'Dashboard', href: 'https://dash.yourhost/' },
-    { name: 'Panel', href: 'https://panel.yourhost/auth/login' },
+    { name: 'Client Area', href: 'https://client.axytehost.xyz' },
+    { name: 'Panel', href: 'https://panel.axytehost.xyz' },
   ]
 
   return (
@@ -51,7 +51,7 @@ const Navbar = () => {
               <div className="relative w-8 h-8">
                 <Image
                   src="/logo.png"
-                  alt="Onyx Logo"
+                  alt="axyte"
                   fill
                   className="object-contain"
                   sizes="32px"
