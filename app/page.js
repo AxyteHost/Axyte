@@ -49,12 +49,12 @@ const features = [
 ];
 
 const locations = [
-  { name: 'India', flag: '🇮🇳', latency: '40-60ms' },
-  { name: 'Germany', flag: '🇩🇪', latency: '20-30ms' },
-  { name: 'USA', flag: '🇺🇸', latency: '30-50ms' },
-  { name: 'UK', flag: '🇬🇧', latency: '25-35ms' },
-  { name: 'Ireland', flag: '🇮🇪', latency: '25-35ms' },
-  { name: 'Sweden', flag: '🇸🇪', latency: '30-40ms' },
+  { name: 'India', flag: '🇮🇳', latency: '20-25ms' },
+  { name: 'Germany', flag: '🇩🇪', latency: '30-40ms' },
+  { name: 'USA', flag: '🇺🇸', latency: '40-60ms' },
+  { name: 'UK', flag: '🇬🇧', latency: '50-55ms' },
+  { name: 'Ireland', flag: '🇮🇪', latency: '60-70ms' },
+  { name: 'Sweden', flag: '🇸🇪', latency: '70-80ms' },
 ];
 
 const minecraftPlans = [
@@ -201,7 +201,7 @@ export default function Home() {
           >
             <h1 className="section-heading hero-title">
               Power Your Game with{' '}
-              <span className="text-white">Onyx</span>
+              <span className="text-white">AxyteHost</span>
             </h1>
 
             <p className="section-description">
@@ -267,7 +267,7 @@ export default function Home() {
             viewport={{ once: true }}
             className="text-center mb-16"
           >
-            <h2 className="section-title">Why Choose Onyx?</h2>
+            <h2 className="section-title">Why Choose AxyteHost?</h2>
             <p className="section-description">Experience the best in game server hosting</p>
           </motion.div>
 
