@@ -38,7 +38,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/mavoio/Onyx-Landing-Page.git
+   git clone https://github.com/AxyteHost/Axyte.git
+   cd Axyte
    ```
 
 2. **Install dependencies**
