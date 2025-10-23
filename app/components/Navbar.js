@@ -50,7 +50,7 @@ const Navbar = () => {
             <div className="flex items-center space-x-3">
               <div className="relative w-8 h-8">
                 <Image
-                  src="/logo.png"
+                  src="img/logo.png"
                   alt="axyte"
                   fill
                   className="object-contain"
