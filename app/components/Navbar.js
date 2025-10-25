@@ -58,7 +58,7 @@ const Navbar = () => {
                 />
               </div>
               <span className="ml-2 text-lg font-semibold">
-                Onyx
+                AxyteHost
               </span>
             </div>
 
