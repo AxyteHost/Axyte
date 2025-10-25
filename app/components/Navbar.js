@@ -197,7 +197,7 @@ const Navbar = () => {
                   ))}
                 </div>
                 <motion.a
-                  href="https://discord.com"
+                  href="https://discord.gg/C9PeDmFqzs"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-4 py-2.5 bg-[#1a1a1a] text-white text-[14px] font-medium 
