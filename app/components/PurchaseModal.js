@@ -60,7 +60,7 @@ const PurchaseModal = ({ isOpen, onClose, plan }) => {
                 className="flex justify-center"
               >
                 <a
-                  href="https://discord.com"
+                  href="https://discord.gg/C9PeDmFqzs"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-8 py-3 bg-[#5865F2] text-white font-medium rounded-lg
