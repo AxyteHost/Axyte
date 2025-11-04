@@ -119,7 +119,7 @@ const Navbar = () => {
           {/* Right Side */}
           <div className="flex items-center space-x-4">
             <motion.a
-              href="https://discord.com"
+              href="https://dsc.gg/axyte"
               target="_blank"
               rel="noopener noreferrer"
               className="hidden md:inline-flex items-center gap-2 px-4 py-2 bg-[#1a1a1a] text-white text-[14px] font-medium 
