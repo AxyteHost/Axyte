@@ -26,14 +26,14 @@ const Navbar = () => {
   ];
 
   const freeStuffItems = [
-    { name: 'Client Area', href: 'https://client.axytehost.xyz' },
-    { name: 'Panel', href: 'https://panel.axytehost,xyz' },
+    { name: 'Dash', href: 'https://dash.renderbyte.site' },
+    { name: 'Panel', href: 'https:/gp.renderbyte.site' },
   ];
 
   const navigation = [
     { name: 'Home', href: '/' },
-    { name: 'Client Area', href: 'https://client.axytehost.xyz' },
-    { name: 'Panel', href: 'https://panel.axytehost.xyz' },
+    { name: 'Dash', href: 'https://dash.renderbyte.site' },
+    { name: 'Panel', href: 'https://gp.renderbyte.site' },
   ]
 
   return (
@@ -119,7 +119,7 @@ const Navbar = () => {
           {/* Right Side */}
           <div className="flex items-center space-x-4">
             <motion.a
-              href="https://dsc.gg/axyte"
+              href="https://dsc.gg/renderbyte"
               target="_blank"
               rel="noopener noreferrer"
               className="hidden md:inline-flex items-center gap-2 px-4 py-2 bg-[#1a1a1a] text-white text-[14px] font-medium 
@@ -197,7 +197,7 @@ const Navbar = () => {
                   ))}
                 </div>
                 <motion.a
-                  href="https://discord.gg/C9PeDmFqzs"
+                  href="https://dsc.gg/renderbyte"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-4 py-2.5 bg-[#1a1a1a] text-white text-[14px] font-medium 
