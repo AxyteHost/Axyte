@@ -31,7 +31,7 @@ const Footer = () => {
           className="grid grid-cols-1 md:grid-cols-4 gap-12 md:gap-8"
         >
           <motion.div variants={item} className="space-y-4">
-            <h3 className="text-lg font-semibold tracking-wide">AxyteHost</h3>
+            <h3 className="text-lg font-semibold tracking-wide">RenderByte</h3>
             <p className="text-gray-400 text-sm leading-relaxed">
               Professional game server and VPS hosting solutions with locations worldwide.
             </p>
@@ -106,7 +106,7 @@ const Footer = () => {
         >
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <motion.p variants={item} className="text-gray-400 text-sm">
-              © {currentYear} AxyteHost. All rights reserved.
+              © {currentYear} RenderByte. All rights reserved.
             </motion.p>
             <motion.div 
               variants={item}
@@ -133,7 +133,7 @@ const Footer = () => {
                 rel="noopener noreferrer"
                 className="text-white hover:text-gray-300 transition-colors duration-200 font-medium"
               >
-                NighT
+                Eiro
               </Link>
             </motion.div>
           </div>
