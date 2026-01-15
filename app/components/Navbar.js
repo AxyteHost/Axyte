@@ -33,7 +33,7 @@ const Navbar = () => {
   const navigation = [
     { name: 'Home', href: '/' },
     { name: 'Dash', href: 'https://dash.renderbyte.site' },
-    { name: 'Panel', href: 'https://gp.renderbyte.site' },
+    { name: 'Panel', href: 'https://renderbyte.site' },
   ]
 
   return (
