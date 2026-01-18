@@ -46,8 +46,8 @@ const Navbar = () => {
       >
         <div className="max-w-[1600px] mx-auto flex items-center justify-between h-16 px-8">
           {/* Logo */}
-          <div className="flex items-center space-x-19">
-            <div className="flex items-center space-x-20">
+          <div className="flex items-center space-x-29">
+            <div className="flex items-center space-x-30">
               <div className="relative w-8 h-8">
                 <Image
                   src="img/logo.png"
