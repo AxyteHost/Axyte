@@ -54,7 +54,7 @@ const Navbar = () => {
                   alt="axyte"
                   fill
                   className="object-contain"
-                  sizes="32px"
+                  sizes="60px"
                 />
               </div>
               <span className="ml-2 text-lg font-semibold">
